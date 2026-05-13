@@ -4,6 +4,7 @@
   </td>
   <td>
   <div align="center"><br/>
+  <h2>Shehraz Ali</h2>
   <h3>Frontend Developer – React & Next.js</h3>
   <a href="https://shehrazali.netlify.app/">Visit my Portfolio</a> ››
   <a href="mailto:Shehrazali360@gmail.com">Get in touch</a> ››
