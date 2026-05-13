@@ -1,15 +1,15 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://shehrazali.netlify.app/" title="Visit my portfolio">
+      <a href="https://shehrazali.netlify.app/" target="_blank" title="Visit my portfolio">
         <img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg" />
       </a>
     </td>
     <td>
       <div align="center"><br/>
         <h3>Shehraz Ali <br /> Frontend Developer – React & Next.js</h3>
-        <a href="https://shehrazali.netlify.app/">🌐 Portfolio</a> ››
-        <a href="mailto:Shehrazali360@gmail.com">📩 Contact</a>
+        <a target="_blank" href="https://shehrazali.netlify.app/">🌐 Portfolio</a> ››
+        <a target="_blank" href="mailto:Shehrazali360@gmail.com">📩 Contact</a>
       </div>
       <br/>
       <p><strong>🎨 Frontend Development</strong></p>
@@ -43,7 +43,7 @@
         <li><strong>Development Style:</strong> Component-based architecture, reusable code, scalable systems</li>
         <li><strong>Mindset:</strong> Continuous learning, problem solving, building production-ready apps</li>
       </ul>
-      <a href="https://shehrazali.netlify.app/">
+      <a target="_blank" href="https://shehrazali.netlify.app/">
         <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" />
       </a>
     </td>
@@ -51,7 +51,7 @@
 </table>
 <br/>
 <div align="center">
-  <a href="https://shehrazali.netlify.app/" title="Visit my portfolio">
+  <a target="_blank" href="https://shehrazali.netlify.app/" title="Visit my portfolio">
     <img src="https://i.postimg.cc/ncJ7vwqH/footer.gif" />
   </a>
 </div>
