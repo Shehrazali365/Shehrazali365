@@ -43,55 +43,9 @@
   <a href="mailto:Shehrazali360@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=0B1120&color=3B82F6" alt="Email" />
   </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Resume-0B1120?style=for-the-badge&logo=readthedocs&logoColor=38BDF8&labelColor=0B1120&color=38BDF8" alt="Resume" />
-  </a>
-  &nbsp;
-  <a href="https://app.cal.com/" target="_blank">
-    <img src="https://img.shields.io/badge/📅%20Cal.com-0B1120?style=for-the-badge&logo=calendly&logoColor=3B82F6&labelColor=0B1120&color=3B82F6" alt="Cal.com" />
-  </a>
 </div>
 
 <br />
-<br />
-
-<!-- ==================== TERMINAL ==================== -->
-
-<div align="center">
-  <h3 style="color: #3B82F6;">⬢ TERMINAL</h3>
-</div>
-
-```bash
-┌──────────────────────────────────────────────────────────┐
-│  ⚡ SHEHRAZ ALI — INTERACTIVE SHELL v2.0               │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  $ whoami                                               │
-│  → Frontend Developer · UI/UX Enthusiast · AI Learner   │
-│                                                          │
-│  $ tech                                                 │
-│  → React.js · Next.js · TypeScript · Tailwind CSS       │
-│  → Node.js · Express · MongoDB · PostgreSQL             │
-│                                                          │
-│  $ currently_building                                   │
-│  → Modern Frontend Projects                             │
-│  → Exploring Backend Architecture                       │
-│  → AI-Powered Applications                              │
-│                                                          │
-│  $ status                                               │
-│  → 🟢 Available for opportunities                      │
-│                                                          │
-│  $ interests                                            │
-│  → AI · Developer Productivity · Performance            │
-│  → Frontend Architecture · UI/UX · Open Source          │
-│                                                          │
-│  $ uptime                                               │
-│  → Building since 2020 · Always learning               │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
 <br />
 
 <!-- ==================== ABOUT ME ==================== -->
@@ -237,17 +191,7 @@
   <a href="mailto:Shehrazali360@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=0B1120&color=3B82F6" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://app.cal.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cal.com-0B1120?style=for-the-badge&logo=calendly&logoColor=38BDF8&labelColor=0B1120&color=38BDF8" alt="Cal.com" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0B1120?style=for-the-badge&logo=readthedocs&logoColor=3B82F6&labelColor=0B1120&color=3B82F6" alt="Resume" />
-  </a>
 </div>
-
-<br />
 <br />
 
 <!-- ==================== FOOTER ==================== -->
